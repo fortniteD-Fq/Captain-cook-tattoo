@@ -9,14 +9,14 @@ header {
     background-color: #333;
     color: #fff;
     text-align: center;
-    padding: 1em;
+    padding: 14px;
 }
 
 nav {
     background-color: #444;
     color: #fff;
     text-align: center;
-    padding: 1em;
+    padding: 14px;
 }
 
 nav a {
@@ -30,7 +30,7 @@ nav a {
 }
 
 main {
-    padding: 2em;
+    padding: 28px;
 }
 
 h1 {
@@ -47,7 +47,7 @@ footer {
     background-color: #333;
     color: #fff;
     text-align: center;
-    padding: 1em;
+    padding: 10px;
     bottom: 0;
     width: 100%;
 }
