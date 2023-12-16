@@ -47,9 +47,9 @@ footer {
     background-color: #333;
     color: #fff;
     text-align: center;
-    padding: 10px;
     bottom: 0;
     width: 100%;
+    padding: 10px;
 }
 header h1 {
     color: white;
@@ -81,9 +81,10 @@ h2{
 }
 .nav{
     background-color: #333;
-    
+    margin: 10px;
 }
 .nava{
     color: #fff;
     text-align: right;
+   
 }
